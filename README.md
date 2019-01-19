@@ -30,8 +30,9 @@ public static void main(String[] args){
 }
 ```
 <p></p>
-<br><br>
 
-**运行展示：**<br>
+***
+
+**生成的代码：**<br>
 
 ![](https://img-blog.csdnimg.cn/20190119150123284.png)
